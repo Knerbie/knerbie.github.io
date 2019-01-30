@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #5e5e5e;
+    padding: 20px;
+    background-color: #ffffff;
+    overflow: auto;
+}
+
+.header1Div {
+    background-color: #fafbf9;
+    /* background-color: #22c1c3; */
+    padding: 15px;
+}
+
+a,
+a:hover,
+a:visited {
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bolder;
+    
+}
+a:visited {
+    color: #df4477
+}
+
+
+#firstParagraph {
+    width: 90%;
+    padding: 15px;
+
+}
+
+#secondParagraph {
+    clear: both;
+    border: none;
+    
+}
+
+
+section,
+.header1Div,
+#me {
+    border: 1px solid#e3e3e3;
+
+}
+
+figure {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+p {}
+
+ul li {
+    list-style-type: none;
+
+}
